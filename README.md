@@ -1,4 +1,4 @@
-<b><h1 style="font-size:10vw"> Hi, There! I'm Shivam 🙋‍♂️  </b></h1>
+<b><h1 style="font-size:30vw"> Hi, There! I'm Shivam 🙋‍♂️  </b></h1>
 
 
 <b>🚀 Welcome To My Github Profile 🚀 </b>
