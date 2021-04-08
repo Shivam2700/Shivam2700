@@ -9,13 +9,9 @@
 • 👨‍💻 Want To Learn Android,Kotlin <br>
 
 
+[![Shivam Raut's github stats](https://github-readme-stats.vercel.app/api?username=Shivam2700)](https://github.com/Shivam2700/github-readme-stats)
 
-<a href="https://github.com/Shivam2700/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam2700&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/Shivam2700/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam2700&repo=convoychat" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam2700&layout=compact)](https://github.com/Shivam2700/github-readme-stats)
 
 
 <!--
