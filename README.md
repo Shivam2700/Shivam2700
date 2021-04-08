@@ -1,7 +1,7 @@
-### Hi, There! I'm Shivam 🙋‍♂️  <h1>
+<h2><b> **Hi, There! I'm Shivam 🙋‍♂️**  
 
 
-**🚀 Welcome To My Github Profile 🚀** <h2>
+**🚀 Welcome To My Github Profile 🚀** 
 
 • 💻 Computer Science Engineering Student. <br>
 • 🔭 Web Designer and Developer. <br>
