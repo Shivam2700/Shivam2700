@@ -1,12 +1,12 @@
-### Hi, There! I'm Shivam🙋‍♂️  
+### Hi, There! I'm Shivam🙋‍♂️  <h1>
 
 
 **🚀 Welcome To My Github Profile 🚀**
 
 • 💻 Computer Science Engineering Student. <br>
-• 🔭 Web Designer and Developer. <br />
-• 💎 Mostly Working on JAVA, Html, CSS, Bootstrap.
-• 👨‍💻 Want To Learn Android,Kotlin
+• 🔭 Web Designer and Developer. <br>
+• 💎 Mostly Working on JAVA, Html, CSS, Bootstrap. <br>
+• 👨‍💻 Want To Learn Android,Kotlin <br>
 <!--
 **Shivam2700/Shivam2700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
