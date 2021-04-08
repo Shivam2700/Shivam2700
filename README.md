@@ -3,8 +3,8 @@
 
 **🚀 Welcome To My Github Profile 🚀**
 
-• 💻 Computer Science Engineering Student.
-• 🔭 Web Designer and Developer.
+• 💻 Computer Science Engineering Student. <br>
+• 🔭 Web Designer and Developer. <br />
 • 💎 Mostly Working on JAVA, Html, CSS, Bootstrap.
 • 👨‍💻 Want To Learn Android,Kotlin
 <!--
