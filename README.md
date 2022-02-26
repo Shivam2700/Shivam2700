@@ -6,7 +6,7 @@
 • 💻 Computer Science Engineering Student. <br>
 • 🔭 Web Designer and Developer. <br>
 • 💎 Mostly Working on JAVA, Html, CSS, Bootstrap. <br>
-• 👨‍💻 Want To Learn Android  <br>
+• 👨‍💻 Learning Android  <br>
 
 
 [![Shivam Raut's github stats](https://github-readme-stats.vercel.app/api?username=Shivam2700)](https://github.com/Shivam2700/github-readme-stats)
